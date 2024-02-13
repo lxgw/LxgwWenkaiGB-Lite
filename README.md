@@ -15,21 +15,21 @@ An open-source Simplified Chinese font derived from Klee One. 一款开源中文
 字体介绍请参阅 [霞鹜文楷 GB](https://github.com/lxgw/LxgwWenKaiGB) 专页。
 
 ## 字体预览
-![](https://raw.githubusercontent.com/lxgw/LxgwWenkaiGB/main/documentation/wenkaigblite-1.png)
+![](https://raw.githubusercontent.com/lxgw/LxgwWenkaiGB-Lite/main/documentation/wenkaigblite-1.png)
 
-![](https://raw.githubusercontent.com/lxgw/LxgwWenkaiGB/main/documentation/wenkaigblite-2.png)
+![](https://raw.githubusercontent.com/lxgw/LxgwWenkaiGB-Lite/main/documentation/wenkaigblite-2.png)
 
-![](https://raw.githubusercontent.com/lxgw/LxgwWenkaiGB/main/documentation/wenkaigblite-3.png)
+![](https://raw.githubusercontent.com/lxgw/LxgwWenkaiGB-Lite/main/documentation/wenkaigblite-3.png)
 
-![](https://raw.githubusercontent.com/lxgw/LxgwWenkaiGB/main/documentation/wenkaigblite-4.png)
+![](https://raw.githubusercontent.com/lxgw/LxgwWenkaiGB-Lite/main/documentation/wenkaigblite-4.png)
 
-![](https://raw.githubusercontent.com/lxgw/LxgwWenkaiGB/main/documentation/wenkaigblite-5.png)
+![](https://raw.githubusercontent.com/lxgw/LxgwWenkaiGB-Lite/main/documentation/wenkaigblite-5.png)
 
-![](https://raw.githubusercontent.com/lxgw/LxgwWenkaiGB/main/documentation/wenkaigblite-6.png)
+![](https://raw.githubusercontent.com/lxgw/LxgwWenkaiGB-Lite/main/documentation/wenkaigblite-6.png)
 
-![](https://raw.githubusercontent.com/lxgw/LxgwWenkaiGB/main/documentation/wenkaigblite-7.png)
+![](https://raw.githubusercontent.com/lxgw/LxgwWenkaiGB-Lite/main/documentation/wenkaigblite-7.png)
 
-![](https://raw.githubusercontent.com/lxgw/LxgwWenkaiGB/main/documentation/wenkaigblite-8.png)
+![](https://raw.githubusercontent.com/lxgw/LxgwWenkaiGB-Lite/main/documentation/wenkaigblite-8.png)
 
 
 ## 获取字体
