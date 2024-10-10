@@ -74,7 +74,11 @@ An open-source Simplified Chinese font derived from Klee One. 一款开源中文
 - 原始字体的设计师周建豪先生（Francis Chow），以及 @荆南字坊、[@夜煞之乐](https://github.com/NightFurySL2001) 等为字形设计与修改提供指导；
 - [@Georgome](https://github.com/GeorgomeFont)、[@Magmeta](https://github.com/Des-Magmeta) 等协助完善字体；
 - [@江大桥BridgeRiver](https://space.bilibili.com/431213752?spm_id_from=333.337.0.0)、[@ItMarki](https://github.com/ItMarki)、[@真理哥](https://github.com/zhenlige) 等对修改过程中存在的遗漏字形提供反馈；
-- 部分字形和笔形参考[「芫荽」/ Iansui](https://github.com/ButTaiwan/iansui)、[「芫茜雅楷」/ Jyunsai Kaai](https://github.com/ItMarki/jyunsaikaai)。
+- [Iosevka](https://github.com/be5invis/Iosevka) / [Nerd-Fonts](https://github.com/ryanoasis/nerd-fonts) 提供等宽字体所用的 Powerline 符号；
+- 部分字形和笔形借自[「芫荽」/ Iansui](https://github.com/ButTaiwan/iansui)、[「芫茜雅楷」/ Jyunsai Kaai](https://github.com/ItMarki/jyunsaikaai)；
+- 制表符、表意文字结构描述符（Ideographic Description Character, IDC）等字符借自 [思源黑体](https://github.com/adobe-fonts/source-han-sans)；
+- 吉祥图案、CC 许可图标等字符衍生自 [煮豆黑体](https://github.com/Buernia/Zhudou-Sans)；
+- 缺字标记 `.notdef` 的「🤔」外部轮廓取自 [Noto Emoji (Monochrome)](https://github.com/googlefonts/noto-emoji)。
 
 ## 相关资料
 - [通用规范汉字表](http://www.moe.gov.cn/jyb_sjzl/ziliao/A19/201306/t20130601_186002.html)
