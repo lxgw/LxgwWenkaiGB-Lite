@@ -5,9 +5,9 @@ mkdir -p sources/build
 # unzip
 python3 sources/shared/scripts/extract.py sources/shared/gblite gblite
 # gb lite
-cp sources/temp/gblite/Light.ufo sources/build/LXGWWenKaiGBLite-Light.ufo
-cp sources/temp/gblite/Regular.ufo sources/build/LXGWWenKaiGBLite-Regular.ufo
-cp sources/temp/gblite/Medium.ufo sources/build/LXGWWenKaiGBLite-Medium.ufo
+cp -r sources/temp/gblite/Light.ufo sources/build/LXGWWenKaiGBLite-Light.ufo
+cp -r sources/temp/gblite/Regular.ufo sources/build/LXGWWenKaiGBLite-Regular.ufo
+cp -r sources/temp/gblite/Medium.ufo sources/build/LXGWWenKaiGBLite-Medium.ufo
 # mono lite
 ufomerge --output sources/build/LXGWWenKaiMonoGBLite-Light.ufo --skip-existing --ignore-layout sources/shared/monolgc/Light.ufo sources/build/LXGWWenKaiGBLite-Light.ufo
 ufomerge --output sources/build/LXGWWenKaiMonoGBLite-Regular.ufo --skip-existing --ignore-layout sources/shared/monolgc/Regular.ufo sources/build/LXGWWenKaiGBLite-Regular.ufo
