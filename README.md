@@ -16,6 +16,8 @@ An open-source Simplified Chinese font derived from Klee One. 一款开源中文
 
 字体介绍请参阅 [霞鹜文楷 GB](https://github.com/lxgw/LxgwWenKaiGB) 专页。
 
+字汇请参阅 [霞鹜文楷 Lite](https://github.com/lxgw/LxgwWenKai-Lite) 专页。
+
 ## 字体预览
 ![](https://raw.githubusercontent.com/lxgw/LxgwWenkaiGB-Lite/main/documentation/wenkaigblite-1.png)
 
