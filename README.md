@@ -35,37 +35,6 @@ An open-source Simplified Chinese font derived from Klee One. 一款开源中文
 
 ![](https://raw.githubusercontent.com/lxgw/LxgwWenkaiGB-Lite/main/documentation/wenkaigblite-8.png)
 
-## 主要字汇
-
-- [x] ![](https://img.shields.io/badge/-%E7%AE%80-brightgreen) 原字库所含繁体字对应的简化字（仅限 GBK 范围内）；
-- [x] ![](https://img.shields.io/badge/-%E7%AE%80-brightgreen) [「现代汉语常用字表」](https://github.com/NightFurySL2001/cjktables/blob/master/china/standard/xiandai_changyong.txt)（老 3500 字）与[「义务教育语文课程常用字表」](https://github.com/NightFurySL2001/cjktables/blob/master/china/standard/yiwu_jiaoyu.txt)（新 3500 字，《通用规范汉字表》一级字表），共计 3603 个简体常用汉字;
-- [x] ![](https://img.shields.io/badge/-%E7%AE%80-brightgreen) [「信息交换用汉字编码字符集 基本集（GB/T 2312-80）」](https://github.com/NightFurySL2001/cjktables/blob/master/china/encoding/gb_t_2312.txt) 6763 个汉字；
-- [x] ![](https://img.shields.io/badge/-%E7%AE%80-brightgreen) [《通用规范汉字表》](https://github.com/NightFurySL2001/cjktables/blob/master/china/standard/tongyong_guifan.txt)收录的 8105 个汉字；
-- [x] ![](https://img.shields.io/badge/-%E7%AE%80-brightgreen)  中国大陆[《标准电码本（1983 年修订本）》](https://zi.tools/?secondary=character_set&set=GT)收录的 7079 个汉字；
-- [x] ![](https://img.shields.io/badge/-%E7%AE%80-brightgreen)  [小鹤音形输入法](https://flypy.cc/) 表外字；
-- [x] ![](https://img.shields.io/badge/-%E7%B9%81-orange) [「信息交换用汉字编码字符集 辅助集（GB/T 12345-90）」](https://github.com/NightFurySL2001/cjktables/blob/master/china/encoding/gb_t_12345.txt)6866 个汉字；
-- [x] ![](https://img.shields.io/badge/-%E7%B9%81-orange) 台湾地区[「常用国字标准字体表」](https://github.com/NightFurySL2001/cjktables/blob/master/taiwan/standard/edu_standard_1.txt)4808 个繁体常用汉字；
-- [x] ![](https://img.shields.io/badge/-%E7%B9%81-orange) 香港地区[「常用字字形表」](https://github.com/NightFurySL2001/cjktables/blob/master/hong_kong/hk-changyong.txt) 常用汉字及部分异体字；
-- [x] ![](https://img.shields.io/badge/-%E7%B9%81-orange) [BIG5 全部汉字](https://github.com/NightFurySL2001/cjktables/blob/master/taiwan/encoding/big5.txt) 13060 个；
-- [x] ![](https://img.shields.io/badge/-%E7%B9%81-orange) [《通用规范汉字表》](https://zi.tools/?secondary=character_set&set=G%E9%80%9A%E8%A7%84)附件 1：「规范字与繁体字、异体字对照表」中的繁体字列；
-- [x] ![](https://img.shields.io/badge/-%E7%B9%81-orange) 港台地区常用粤语、闽南语、客家语用字（基于[「常用香港外字表」](https://github.com/ichitenfont/suppchara)）：
-  - [x] 外字表 A-C 级：BIG5 应有香港字
-  - [x] 外字表 1-2 级：极常用粤字及异体字
-  - [x] 外字表 3-4 级：常用粤字及异体字
-  - [x] 外字表 5 级：次常用粤字及异体字
-  - [x] 外字表 6 级：其余粤字及异体字
-  - [x] 外字表ㄅ、ㄆ级：台湾闽客汉字
-- [x] ![](https://img.shields.io/badge/-%E7%AE%80%E7%B9%81-blue) [汉仪简繁字库](https://github.com/NightFurySL2001/cjktables/blob/master/china/foundry/hanyi_jianfan.txt)、[方正简繁字库](https://github.com/NightFurySL2001/cjktables/blob/master/china/foundry/fangzheng_jianfan.txt)所含汉字；
-- [x] ![](https://img.shields.io/badge/-%E7%AE%80%E7%B9%81-blue) IICore 范围内 9810 个汉字；
-- [x] ![](https://img.shields.io/badge/-%E7%AE%80%E7%B9%81-blue) [eisoch/irg](https://github.com/eisoch/irg/) 中列出的方言、人名、地名、科技用生僻字； 
-  - [x] [#84](https://github.com/eisoch/irg/issues/84) 方言用字；
-  - [x] [#85](https://github.com/eisoch/irg/issues/85) 人名用字；
-  - [x] [#86](https://github.com/eisoch/irg/issues/86) 科技、学术用字；
-  - [x] [#96](https://github.com/eisoch/irg/issues/96) 现代汉语中较常用的韩国吏读字和越南喃字；
-  - [x] [#105](https://github.com/eisoch/irg/issues/105) 地名用字；  
-- [x] ![](https://img.shields.io/badge/-%E7%AE%80%E7%B9%81-blue) 《新华字典》（第 13 版）已入 U 字头、繁异体； 
-- [x] ![](https://img.shields.io/badge/-%E7%AE%80%E7%B9%81-blue) 《现代汉语词典》（第 7 版）已入 U 字头、繁异体。
-
 ## 获取字体
 
 ### ⅰ. 直接下载
