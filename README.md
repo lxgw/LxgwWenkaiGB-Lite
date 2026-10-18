@@ -1,8 +1,8 @@
 # LXGW WenKai GB <sup>Lite</sup> / 霞鹜文楷 GB <sup>轻便版</sup>
 An open-source Simplified Chinese font derived from Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
 
-[![开源授权](https://img.shields.io/github/license/lxgw/LxgwWenKaiGB-Lite?style=flat-square)](https://github.com/lxgw/LxgwWenKaiGB-Lite)
-[![最新版](https://img.shields.io/github/release/lxgw/LxgwWenKaiGB-Lite?style=flat-square)](https://github.com/lxgw/LxgwWenKaiGB-Lite/releases)
+[![开源授权](https://img.shields.io/github/license/lxgw/LxgwWenkaiGB-Lite?style=flat-square)](https://github.com/lxgw/LxgwWenkaiGB-Lite)
+[![最新版](https://img.shields.io/github/release/lxgw/LxgwWenkaiGB-Lite?style=flat-square)](https://github.com/lxgw/LxgwWenkaiGB-Lite/releases)
 
 为便于开发者将字体嵌入软件中，按照 [霞鹜文楷 GB 早期版本](https://github.com/lxgw/LxgwWenKaiGB/releases/v1.011) 的字库大小提供轻便版（Lite 版）。
 
