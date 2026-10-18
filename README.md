@@ -40,7 +40,7 @@ An open-source Simplified Chinese font derived from Klee One. 一款开源中文
 ### ⅰ. 直接下载
 
 1. 在 [Releases](https://github.com/lxgw/LxgwWenKaiGB/releases) 界面下载 ttf 格式字体文件。
-2. [永硕 E 盘个人下载站](http://lxgw.ysepan.com/)、[蓝奏云（密码 e0zt）](https://lxgw.lanzoum.com/b0csn9d8j) 会在本项目更新后 48 小时之内更新。
+2. [永硕 E 盘个人下载站](http://lxgw.ysepan.com/)、[蓝奏云（密码：8ppk）](https://lxgw.lanzoui.com/b0cqwpt3i) 会在本项目更新后 48 小时之内更新。
 
 ### ⅱ. 从源代码生成
 
