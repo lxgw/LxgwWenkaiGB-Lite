@@ -12,6 +12,8 @@ An open-source Simplified Chinese font derived from Klee One. 一款开源中文
 
 「霞鹜文楷 GB 轻便版」支持 Unicode 变体序列（Unicode Variation Sequences, UVS），用于标点符号宽度和位置的选择，以及笔画形态的切换，点击此处查看[标点符号一览表](documentation/uvs.pdf)、[笔画一览表](documentation/uvs-strokes.pdf)。
 
+历史版本的 Release，请在 [Release](https://github.com/lxgw/LxgwWenKaiGB-Lite/releases) 页面查看。文字版本的更新记录请在 [HISTORY.md](./HISTORY.md) 查看。
+
 ## 字体介绍及预览
 
 字体介绍请参阅 [霞鹜文楷 GB](https://github.com/lxgw/LxgwWenKaiGB) 专页。
